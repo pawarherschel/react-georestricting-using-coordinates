@@ -58,4 +58,6 @@ console.log(a + b);
 ## License
 
 *react-component-boilerplate* is available under MIT. See LICENSE for more details.
+  
+  line added by aryan
 
